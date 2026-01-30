@@ -1,1 +1,1 @@
-Same or last finished, green
+same chain, should be green, artifact build should be reused
